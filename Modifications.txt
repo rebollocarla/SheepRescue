@@ -1,0 +1,1 @@
+My modifications were to change the Hay Machine speed to 15 in order to be easier to save the sheeps and to add a heart animation on top of the sheeps that are rescued while the sheeps are reduced in size until disappearing.
